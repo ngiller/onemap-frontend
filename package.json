@@ -1,0 +1,39 @@
+{
+  "name": "onemap",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "vue-cli-service build",
+    "dev": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "@kevindesousa/vue-k-tabs": "^1.0.0",
+    "apexcharts": "^3.35.3",
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "epic-spinners": "^1.1.0",
+    "leaflet": "^1.8.0",
+    "register-service-worker": "^1.7.2",
+    "vue": "^2.6.14",
+    "vue-apexcharts": "^1.6.2",
+    "vue-axios": "^3.2.5",
+    "vue-badger-accordion": "^2.0.2",
+    "vue-concise-slider": "^4.2.5",
+    "vue-multiselect": "^2.1.6",
+    "vue-router": "^3.5.1",
+    "vue-simple-progress": "^1.1.1",
+    "vue2-leaflet": "^2.7.1",
+    "vuescroll": "^4.17.3",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "node-sass": "^7.0.3",
+    "sass-loader": "^13.1.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
